@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: HDM
+        psr4_prefix: HDM
+        src_path: app
